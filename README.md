@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hp6970321
 - 👀 I’m interested in ..Programming.
-- 🌱 I’m currently learning .Java..
+- 🌱 I’m currently learning .c.
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me .hp6970321@gmail.com..
 
